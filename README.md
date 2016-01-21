@@ -1,8 +1,8 @@
 # mondedie-logo
 .PSD des logos et bannières du forum
 
-Logiciel : Adobe Photoshop CC
-Police : Bebas Neue Regular
-Bleu : #59b9ea
-Gris : #a4b3ba
-Blanc : #FFFFFF :D 
+## Polices
+
+- Bebas Neue : http://www.dafont.com/fr/bebas-neue.font
+- Roboto : http://www.dafont.com/fr/bebas-neue.font
+- Visitor : http://www.dafont.com/fr/visitor.font
